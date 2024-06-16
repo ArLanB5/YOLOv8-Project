@@ -86,6 +86,10 @@ def main():
         text_scale=2
     )
 
+    # check class.yml file for classes names
+    # only few classes are used for detection
+    # to add more check class.yml file
+
     def get_price(item):
         prices = {
             "person": 0,
