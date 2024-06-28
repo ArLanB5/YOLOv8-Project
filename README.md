@@ -1,7 +1,7 @@
-## Detecting Real Time Object 
+# Detecting Real Time Object 
 
- # Our model: yolov8l.pt
+ ## Our model: yolov8l.pt
 
- # Run the program: python -m main or python3 -m main
+ ## Run the program: python -m main or python3 -m main
 
  
